@@ -1,2 +1,3 @@
 start : css, 기본
 pages1 : props 
+pages2 : import export (Default function과 그 외 function)
