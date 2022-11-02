@@ -1,0 +1,8 @@
+React Study (MAC OS)
+* NODE.js 설치
+  - curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh | bash
+
+
+* React 프로젝트 생성
+  - npx create-react-app 프로젝트명
+  - npm start
