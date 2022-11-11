@@ -1,3 +1,6 @@
 start : css, 기본
 pages1 : props 
 pages2 : import export (Default function과 그 외 function)
+
+
+5-1 랜더링 children 공부할 것.
